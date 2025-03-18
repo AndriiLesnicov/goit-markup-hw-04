@@ -467,8 +467,6 @@ a {
   background-color: #31d0aa;
 }
 
-.foot-list-item-soc {
-  width: 40px;
-  height: 40px;
+.foot-list-social-link {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
